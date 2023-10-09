@@ -1,5 +1,5 @@
-#ifndef DECLARACIONES_H
-#define DECLARACIONES_H
+#ifndef DECLARACION_H
+#define DECLARACION_H
 
 #include <vector>
 
